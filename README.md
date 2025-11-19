@@ -1,4 +1,4 @@
-# 🚀 SATHYA – Voice-Driven AI Assistant  
+# 🚀 Female-AI-Assistant-S.A.T.H.Y.A
 ### A Python + Selenium + EEL Powered Desktop AI Assistant
 
 <p align="center">
